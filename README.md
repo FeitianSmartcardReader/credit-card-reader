@@ -16,9 +16,9 @@ On MacOS, PC/SC is already installed.
 
 ## Hardware requirements
 
-[Gemalto chip smart card reader](https://amzn.to/3caTTVQ)
+[Feitian Contact smart card reader R301]([https://amzn.to/3caTTV](https://www.alibaba.com/product-detail/Contact-IC-Chip-USB-Smart-Card_62090500846.html?spm=a2700.galleryofferlist.normal_offer.d_title.65f37d55XQMIL8))
 
-[ACS NFC smard card reader](https://amzn.to/3v7zycu)
+[Feitian NFC smard card reader R502](https://www.alibaba.com/product-detail/Access-RFID-Card-Reader-Contactless-NFC_62090650304.html?spm=a2700.shop_plgr.41413.25.5d463ab1IYruQV)
 
 ## Getting Started
 
